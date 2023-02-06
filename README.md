@@ -1,2 +1,2 @@
 # base-template
- a base template for any repository (Node.js Gitignore)
+ a base template for any repository (Node.js Gitignore + ESLint)
